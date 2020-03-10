@@ -1,0 +1,5 @@
+name: OldCommunity-Hub
+main: net.oldcommunity.hub.HubPlugin
+version: 1.0
+author: Tinchx
+depend: [Axis]
